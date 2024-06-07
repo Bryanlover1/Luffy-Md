@@ -53,7 +53,7 @@
 **GET In Touch with The Owner**
 - <a href="https://instagram.com/france.king1"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-black?style=for-the-badge&logo=Instagram"></a>
 OR 
-- <a href="https://wa.me/254742063632"><img title="Author" src="https://img.shields.io/badge/ON WHATSAPP-black?style=for-the-badge&logo=WhatsApp"></a>
+- <a href="https://wa.me/233263176982"><img title="Author" src="https://img.shields.io/badge/ON WHATSAPP-black?style=for-the-badge&logo=WhatsApp"></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
@@ -62,7 +62,7 @@ OR
 
 
 *CLICK THIS 👇 BUTTON* <p align="centre">
-  <a href="https://chat.whatsapp.com/IH4xWuVTGpf7ibfzC3h6LM">
+  <a href="https://chat.whatsapp.com/HsPiKU0POmU6Pbg4SLwi90">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   
 
@@ -72,7 +72,7 @@ OR
 ### TO JOIN OUR WHATSAPP CHANNEL 
 
 *CLICK THIS 👇 BUTTON* <p align="centre">
-  <a href="https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P">
+  <a href="https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L">
    <img align="centre" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
    
