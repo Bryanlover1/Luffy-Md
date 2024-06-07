@@ -3,7 +3,7 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +LUFFY-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FRANCE+KING;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +LUFFY-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BRYAN+TECH;" alt="Typing SVG" /></a>
   </p>
     <img alt="LUFFY-MD" width="700" height="300" src="https://telegra.ph/file/1cd1189fd39479db4641a.jpg">
 <p align="center">
@@ -62,7 +62,7 @@ OR
 
 
 *CLICK THIS 👇 BUTTON* <p align="centre">
-  <a href="https://chat.whatsapp.com/IH4xWuVTGpf7ibfzC3h6LM">
+  <a href="https://chat.whatsapp.com/HsPiKU0POmU6Pbg4SLwi90">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   
 
@@ -72,17 +72,8 @@ OR
 ### TO JOIN OUR WHATSAPP CHANNEL 
 
 *CLICK THIS 👇 BUTTON* <p align="centre">
-  <a href="https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P">
+  <a href="https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L">
    <img align="centre" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
    
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-***
-### THANKS TO:
-- [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds & Ideas.
-- [***Gifted Tech***](https://github.com/mouricedevs) For Genaral Help and Brotherhood. 
-- [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption. 
-- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FLASH-MD**
-- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
