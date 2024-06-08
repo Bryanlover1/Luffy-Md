@@ -9,13 +9,13 @@
      "env":{
     "PREFIX":
     {
-      "description":"choose your prefix of bot",
+      "description":"choose your prefix for luffy md WA bot",
       "value":".",
       "required":true
     },
     "AUTO_READ_MESSAGES":
     {
-      "description":"Put yes if you want the bot to autoread people's messages or else put no", 
+      "description":"Put yes if you want the luffy bot to autoread people's messages or else put no", 
       "value":"no", 
       "required":false 
     }, 
@@ -70,7 +70,7 @@
           ,
     "SESSION_ID":
     {
-      "description":"put your session ID, AMKE SURE IT STARTS WITH FLASH-MD-WA-BOT;;;=>",   
+      "description":"put your session ID, AMKE SURE IT STARTS WITH LUFFY-MD-WA-BOT;;;=>",   
       "value":"",
       "required": true
 
