@@ -11,10 +11,10 @@
 <a href="https://github.com/Bryanlover1"><img title="Author" src="https://img.shields.io/badge/LUFFY_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Bryanlover1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="https://github.com/Bryanlover1/Luffy-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
-<a href="https://github.com/Bryanlover1/Luffy-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
-<a href="https://github.com/Bryanlover1/Luffy-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
+<a href="https://github.com/Bryanlover1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Bryanlover1?label=Followers&style=social"></a>
+<a href="https://github.com/Bryanlover1/Luffy-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Bryanlover1/Luffy-Md?&style=social"></a>
+<a href="https://github.com/Bryanlover1/Luffy-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Bryanlover1/Luffy-Md?style=social"></a>
+<a href="https://github.com/Bryanlover1/Luffy-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Bryanlover1/Luffy-Md?label=Watching&style=social"></a>
   
 ***
 
