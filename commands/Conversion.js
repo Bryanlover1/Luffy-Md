@@ -1,5 +1,5 @@
 const { Sticker, createSticker, StickerTypes } = require('wa-sticker-formatter');
-const { france } = require("../framework/france");
+const { france } = require("../framework/Bryan_Tech");
 const traduire = require("../framework/traduction");
 const { downloadMediaMessage,downloadContentFromMessage } =  require('@whiskeysockets/baileys');
 const fs =require("fs-extra") ;
