@@ -70,7 +70,7 @@
           ,
     "SESSION_ID":
     {
-      "description":"put your session ID, AMKE SURE IT STARTS WITH LUFFY-MD-WA-BOT;;;=>",   
+      "description":"put your session ID, AMKE SURE IT STARTS WITH ey;;;=>",   
       "value":"",
       "required": true
 
