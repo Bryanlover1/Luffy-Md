@@ -13,7 +13,7 @@ smd({
   let isteddy = smd ==="teddy"?true : citel.isPublic && match.toLowerCase().includes("teddy") ? true : ""       
       if (isteddy && !teddyM[citel.id]) {
       teddyM[citel.id] =true;
-      let teddy = ['❤', '💕', '😻', '🧡', '💛', '💚', '💙', '💜', '🖤', '❣', '💞', '💓', '💗', '💖', '💘', '💝', '💟', '♥', '💌', '🙂', '🤗', '😌', '😉', '🤗', '😊', '🎊', '🎉', '🎁', '🎈']
+      let teddy = ['❤', '💕', '😻', '🧡', '💛', '💚', '💙', '💜', '🖤', '❣', '💞', '💓', '💗', '💖', '💘', '💝', '💟', '♥', '💌', '🙂', '🤗', '😌', '😉', '🤗', '😊', '🎊', '🎉', '🎁', '❤️‍🔥']
       const { key } = await citel.reply( `(\\_/)\n( •.•)\n/>🤍`)
       for (let i = 0; i < teddy.length; i++) {
         await sleep(500);
