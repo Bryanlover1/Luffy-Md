@@ -1,7 +1,7 @@
 const {
     smd,
     sleep
-    } = require('../lib'),teddyM = {"smd" : "asta" }
+    } = require('../lib'),teddyM = {"smd" : "Luffy" }
 
 smd({
     cmdname: "teddy",    
