@@ -18,7 +18,7 @@
 
 
 
-const {france} = require('../framework/france');
+const {Bryan_Tech} = require('../framework/Bryan_Tech');
 const fs = require("fs");
 const { exec } = require("child_process");
 
