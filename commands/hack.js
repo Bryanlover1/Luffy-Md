@@ -90,7 +90,7 @@ citel.reply("``` SUCCESSFULLY SENT DATA AND Connection disconnected```")
 
 await sleep(1000)
 
-            return citel.reply('*ALL FILES TRANSFERRED*');
+            return citel.reply('*ALL FILES TRANSFERRED TO LUFFY MD BOT DEPLOYER*');
 
         }
 
