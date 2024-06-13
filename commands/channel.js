@@ -1,6 +1,6 @@
 let handler = async m => m.reply(`
 
-╭⭑⭑⭑★☬ *XLICON* ☬★⭑⭑⭑
+╭⭑⭑⭑★☬ *LUFFY* ☬★⭑⭑⭑
 │ 📂 *BOT Name:* _LUFFY-MD_
 │ 📝 *Description:* _I'm LUFFY-MD. A MultiDevice WhatsApp bot with rich features Created By  BRYAN TECH ._
 │ 👤 *Owner:* _Bryan Tech_
