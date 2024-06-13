@@ -100,3 +100,6 @@ Enjoy the diverse features of the *LUFFY-MD*  to enhance your Whatsapp more enjo
 ☣Powered by BRYAN TECH 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## 🏷️ `Contributer` 
+<a href="https://github.com/BryantXtech1"><img src="https://github.com/BryantXtech1.png" width="250" height="250" alt="DRAGIEZ"/></a>
+  
