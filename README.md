@@ -75,6 +75,8 @@ OR
   <a href="https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L">
    <img align="centre" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
+## `OWNER` 
+<a href="https://github.com/Bryanlover1"><img src="https://github.com/Bryanlover1.png" width="250" height="250" alt="Bryan Tech"/></a>
    
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑👇
