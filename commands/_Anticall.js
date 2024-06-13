@@ -7,7 +7,7 @@ export async function before(m, { conn, isAdmin, isBotAdmin, isOwner, isROwner }
   if (!bot.antiCall) return;
 
   // Create a message mentioning the sender of the incoming message.
-  const edtr = `🧙‍♂️ @${m.sender.split('@')[0]} 🧙‍♂️`;
+  const edtr = `⚡ @${m.sender.split('@')[0]} ⚡`;
 
   // Define different message types and their corresponding messages.
   const messageType = {
