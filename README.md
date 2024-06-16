@@ -37,7 +37,7 @@
 
 **2. If You Have a Heroku Account**
     <br>
-<p align="center"><a href="https://france-king.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Bryanlover1/Luffy-Md"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -72,7 +72,7 @@ OR
 ### TO JOIN OUR WHATSAPP CHANNEL 
 
 *CLICK THIS 👇 BUTTON* <p align="centre">
-  <a href="">
+  <a href="https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L">
    <img align="centre" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
    
