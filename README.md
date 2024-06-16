@@ -8,7 +8,7 @@
     <img alt="LUFFY-MD" width="700" height="300" src="https://telegra.ph/file/134075b175f222786a795.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/Bryanlover1/Luffy-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Bryanlover1/Luffy-Md"><img title="Author" src="https://img.shields.io/badge/LUFFY_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Bryanlover1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Bryanlover1?label=Followers&style=social"></a>
