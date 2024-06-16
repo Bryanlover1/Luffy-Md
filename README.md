@@ -20,7 +20,7 @@
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/franceking1/Flash-Md/fork) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Bryanlover1/Luffy-Md/fork) It***
 
 ***2.`Get Session ID` by [`SCANING QR 1`](https://scan-flash-md.onrender.com) OR [`QR SCANNER 2`](https://king-france.vercel.app) OR [`PAIRING CODE 2`](https://flash-sessions.onrender.com/pair)***
 
@@ -45,15 +45,15 @@
 
 
 ### CONTRIBUTIONS 
--Contributions to Flash-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+-Contributions to Luffy-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- <a href="https://instagram.com/france.king1"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-black?style=for-the-badge&logo=Instagram"></a>
+- <a href="https://instagram.com/bryan_lover1"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-black?style=for-the-badge&logo=Instagram"></a>
 OR 
-- <a href="https://wa.me/254742063632"><img title="Author" src="https://img.shields.io/badge/ON WHATSAPP-black?style=for-the-badge&logo=WhatsApp"></a>
+- <a href="https://wa.me/233263176982"><img title="Author" src="https://img.shields.io/badge/ON WHATSAPP-black?style=for-the-badge&logo=WhatsApp"></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
@@ -62,7 +62,7 @@ OR
 
 
 *CLICK THIS 👇 BUTTON* <p align="centre">
-  <a href="https://chat.whatsapp.com/IH4xWuVTGpf7ibfzC3h6LM">
+  <a href="https://chat.whatsapp.com/DVpRj3FVHFQDYxploAvjI5">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   
 
@@ -72,17 +72,10 @@ OR
 ### TO JOIN OUR WHATSAPP CHANNEL 
 
 *CLICK THIS 👇 BUTTON* <p align="centre">
-  <a href="https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P">
+  <a href="">
    <img align="centre" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
    
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
-### THANKS TO:
-- [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds & Ideas.
-- [***Gifted Tech***](https://github.com/mouricedevs) For Genaral Help and Brotherhood. 
-- [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption. 
-- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FLASH-MD**
-- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
