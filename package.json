@@ -1,5 +1,5 @@
 {
-  "name": "FLASH-MD",
+  "name": "LUFFY-MD",
   "version": "2.0.0",
   "description": "",
   "main": "flash.js",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Flash-Md",
+    "Luffy-Md",
     "whatsapp",
     "whatsapp-bot",
-    "franceking1"
+    "Bryanlover1"
   ],
-  "author": "France King",
+  "author": "Bryan Tech",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
