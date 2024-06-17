@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Bryanlover1/Luffy-Md/fork) It***
 
-***2.`Get Session ID` by [`SCANING QR 1`](https://session290-08b560e52063.herokuapp.com/) OR [`QR SCANNER 2`](https://session290-08b560e52063.herokuapp.com/) OR [`PAIRING CODE 2`](https://session290-08b560e52063.herokuapp.com/)***
+***2.`Get Session ID` by [`SCANING QR 1`](https://thegod-31bf27d0e3c9.herokuapp.com/) OR [`QR SCANNER 2`](https://thegod-31bf27d0e3c9.herokuapp.com/) OR [`PAIRING CODE 2`](https://thegod-31bf27d0e3c9.herokuapp.com/)***
 
 *-Copy The Session ID to paste it in Heroku*
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
