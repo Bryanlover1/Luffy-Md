@@ -1,9 +1,9 @@
 {
-  "name":"FLASH-MD",
-  "description":"An easy and simple WhatsApp bot developed by France King",
+  "name":"LUFFY-MD",
+  "description":"An easy and simple WhatsApp bot developed by Bryan Tech",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
-  "repository":"https://github.com/franceking1/Flash-Md",
+  "logo":"https://telegra.ph/file/c6388d9132c7a40f60097.jpg",
+  "repository":"https://github.com/Bryanlover1/Luffy-Md",
   "succes_url":"/",
   "stack":"container",
      "env":{
@@ -41,14 +41,14 @@
     "BOT_NAME" : {
 
       "description":"put A name for your bot",
-      "value":"FLASH-MD",
+      "value":"LUFFY-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
 
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+      "value":"https://telegra.ph/file/120c4e45eb0f21f43aa53.mp4",
       "required":false
 
      },
@@ -70,7 +70,7 @@
           ,
     "SESSION_ID":
     {
-      "description":"put your session ID, AMKE SURE IT STARTS WITH FLASH-MD-WA-BOT;;;=>",   
+      "description":"put your session ID, AMKE SURE IT STARTS WITH ey;;;=>",   
       "value":"",
       "required": true
 
@@ -80,14 +80,14 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "France King"
+    "value": "Bryan Tech"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254751284190"
+    "value": "233263176982"
   },
     "WARN_COUNT":
   {
