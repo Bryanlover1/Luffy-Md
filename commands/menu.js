@@ -43,40 +43,40 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────𖤍 𝐌𝐄𝐆𝐀𝐓𝐑𝐎𝐍 𝐁𝐎𝐓 𖤍────◆
-│𖤍 *Préfix* : ${s.PREFIXE}
-│𖤍 *User* : ${s.OWNER_NAME}
-│𖤍 *Mode* : ${mode}
-│𖤍 *Commands* : ${cm.length} 
-│𖤍 *Date* : ${date}
-│𖤍 *Time* : ${temps} 
-│𖤍 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│𖤍 *Platform* : Linux 
-│𖤍 *Uptime*: ${runtime(process.uptime())}
-╰─────✞🩸𝐊𝚰𝚳𝚳𝐘𓃵𖤍🔥³¹⁶─────◆ \n\n`;
+╭────🥶𝐋𝐔𝐅𝐅𝐘   𝚳𝐃🥶────◆
+│⭐ *Préfix* : ${s.PREFIXE}
+│⭐ *User* : ${s.OWNER_NAME}
+│⭐ *Mode* : ${mode}
+│⭐ *Commands* : ${cm.length} 
+│⭐ *Date* : ${date}
+│⭐ *Time* : ${temps} 
+│⭐ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│⭐ *Platform* : Linux 
+│⭐ *Uptime*: ${runtime(process.uptime())}
+╰─────✞❤️𝗕𝗥𝗬𝗔𝗡🤍³¹⁶─────◆ \n\n`;
 
   let menuMsg=`  
 
-* 𝐌𝐄𝐆𝐀𝐓𝐑𝐎𝐍 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 :*
+* 𝐋𝐔𝐅𝐅𝐘     𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 :*
 ◇                             ◇
 `;
 
     for (const cat in coms) {
-        menuMsg += `*╭────✞* *${cat}* *✞⊷*`;
+        menuMsg += `*╭────☬* *${cat}* *☬⊷*`;
         for (const cmd of coms[cat]) {
             menuMsg += `
 *𓃵* ${cmd}`;
         }
         menuMsg += `
-*╰═════════════⊷* \n`
+*࿇ ══━━━━✥◈✥━━━━══ ࿇* \n`
     }
 
     menuMsg += `
 ◇            ◇
-*————— ★ —————*
+*✿❯────「✿」────❮✿*
 
-  *𖤍 ༒𝐃𝚫𝚳𝚯𝚴𖤍༒³¹⁶*                                         
-*╰═════════════⊷*
+  *𖤍 ༒⭐𝗕𝗥𝗬𝗔𝗡⭐༒³¹⁶*                                         
+*࿇ ══━━━━✥◈✥━━━━══ ࿇*
 `;
 
    var lien = mybotpic();
@@ -86,18 +86,18 @@ const date = moment().format('DD/MM/YYYY');
         zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Zokou-MD*, développé par Djalega++" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("⭐⭐ Menu erreur " + e);
+        repondre("⭐⭐ Menu erreur " + e);
     }
 } 
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "*༒𝐃𝚫𝚳𝚯𝚴𖤍༒*" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "*༒⭐𝗕𝗥𝗬𝗔𝗡⭐༒*" }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("⭐⭐ Menu erreur " + e);
+        repondre("⭐⭐ Menu erreur " + e);
     }
 } 
 else {
