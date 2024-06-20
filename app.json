@@ -1,9 +1,9 @@
 {
-  "name":"MEGATRON-BOT",
-  "description":"An easy and simple WhatsApp bot With over 150 features developed by Damon.",
+  "name":"LUFFY-MD",
+  "description":"An easy and simple WhatsApp bot With over 150 features developed by Tech.",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/6965abd5ea26b6cc84a52.jpg",
-  "repository":"https://github.com/Madmkisii/Megatron-Bot",
+  "logo":"https://telegra.ph/file/134075b175f222786a795.jpg",
+  "repository":"https://github.com/Bryanlover1/Luffy-Md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/6c25ba8205452781b7734.jpg",
+      "value":"https://telegra.ph/file/134075b175f222786a795.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Damon"
+    "value": "𝗕𝗥𝗬𝗔𝗡 𝗧𝗘𝗖𝗛"
   },
     "OWNER_NUMBER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254790593618"
+    "value": "233263176982"
   },
     "WARN_COUNT":
   {
