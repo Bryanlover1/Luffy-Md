@@ -14,7 +14,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
     if ((s.MODE).toLocaleLowerCase() != "oui") {
         mode = "privé";
     }
-    var emoji = { "General": "🌐", "Logo": "🎨", "Hentai": "🔥", "Weeb": "🌸", "Recherche": "🔍", "Conversion": "🌟", "Groupe": "♻️", "Autre": "🪖" };
+    var emoji = { "General": "👾", "Logo": "🎨", "Hentai": "😂", "Weeb": "🌸", "Recherche": "🔍", "Conversion": "🌟", "Groupe": "♻️", "Autre": "🪖" };
     cm.map(async (com, index) => { if (!coms[com.categorie])
         coms[com.categorie] = []; coms[com.categorie].push(com.nomCom); });
     const temps = moment(moment()).format("HH:MM:SS");
@@ -33,9 +33,9 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
     
     
       
-    ╚═════ ▓▓ 𖤍 ▓▓ ═════╝*/
+      ◆━━━━━━━▣✦▣━━━━━━━━◆*/
     /* menuMsg+=`
-   ╔════ ▓▓ 𖤍𝐌𝐄𝐆𝐀𝐓𝐑𝐎𝐍-𝐁𝐎𝐓𖤍 ▓▓ ════╗
+       ◆━━━━━━━▣LUFFY-MD▣━━━━━━━━◆
   
    ||     Préfixe : ${s.prefixe}
    ||      Owner : ${s.OWNER_NAME}
@@ -43,11 +43,11 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
    ||      Date : ${date}
    ||      Hour : ${temps}
    ||      Mém: ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}                   {Plateforme : ${os.platform()}
-   ||  Developer : ༒𝐃𝚫𝚳𝚯𝚴𖤍༒
+   ||  Developer : ༒𝗕𝗥𝗬𝗔𝗡 𝗧𝗘𝗖𝗛༒
    ||
-   ╚════ ▓▓ ࿇ ▓▓ ════╝`;*/
+   `;*/╚─━━━━━━   ░★░    ━━━━━━─╝
     menuMsg += `
-╔════----*𝐌𝐄𝐆𝐀𝐓𝐑𝐎𝐍-𝐁𝐎𝐓*----
+╔════----*LUFFY-MD *----
 ║    Préfixe : ${s.PREFIXE}
 ║    Owner : ${s.OWNER_NAME}    
 ║    Mode : ${mode}
@@ -56,25 +56,26 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 ║    Hour: ${temps}
 ║    Mém : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ║    Platform : ${os.platform()}
-║    Déveloper : ༒𝐃𝚫𝚳𝚯𝚴𖤍༒
+║    Déveloper : ༒𝗕𝗥𝗬𝗔𝗡 𝗧𝗘𝗖𝗛༒
 ╚════--------------- \n\n`;
     for (const cat in coms) {
         if (!emoji[cat]) {
-            emoji[cat] = "💞";
+            emoji[cat] = "🤍"
+";
         }
         menuMsg += `${emoji[cat]} ══ *${cat} * ══ ${emoji[cat]}\n`;
         for (const cmd of coms[cat]) {
             menuMsg += "\t  ║ " + cmd + "" + " \n";
         }
     }
-    //  var link = "https://wallpapercave.com/uwp/uwp3860299.jpeg";
+    //  var link = "https://telegra.ph/file/134075b175f222786a795.jpg";
     var link = s.IMAGE_MENU;
     try {
         zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "by Djalega++" }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("🔥🔥Menu erreur " + e);
+        repondre("🔥🔥 Menu erreur " + e);
     }
 });
 /*
@@ -83,7 +84,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 module.exports.commande =()=>
   {
     var nomCom=["menu","m","fonctions"];
-    var reaction="🐞"
+    var reaction="🚀"
     var categorie="General"
 
 
@@ -114,7 +115,7 @@ var tt=[]
  async  function execute(dest,zok,commandeOptions?)
   {
 
-    var link = "https://wallpapercave.com/uwp/uwp3860299.jpeg"
+    var link = "https://telegra.ph/file/134075b175f222786a795.jpg"
     // var listCom =listeCommande()
     let msg= "  ╩═══ * Ƶ𝓞ｋØ𝓊 * ╩═══\n\n"
 
@@ -146,7 +147,7 @@ var tt=[]
        
      }*/
 //msg+=infoCom.categorie+infoCom.nomCom[0]
-//msg+=`🪰 ${infoCom.nomCom[0]} `+"\n"
+//msg+=`✈️ ${infoCom.nomCom[0]} `+"\n"
 // tu = infoCom.nomCom[1]
 /*  for(var b=0;b<=infoCom.nomCom[0].length;b++)
      {
@@ -167,7 +168,7 @@ var tt=[]
 // }
 /** ********************************************* */
 //    }
-//console.log("installation de plugins terminé 👍🏿")
+//console.log("installation de plugins terminé ✌️")
 // return tab
 // })
 // console.log("fichier "+typeof nomFichier)
