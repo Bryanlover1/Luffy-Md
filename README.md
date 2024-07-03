@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Bryanlover1/Luffy-Md/fork) It***
 
-***2.`Get Session ID` by [`Replit`](https://replit.com/@bryanbotchway5/Luffy-MD-session-id)***
+***2.`Get Session ID` by [`Replit`](https://replit.com/@bryanbotchway5/Luffy-MD-session-id?v=1)***
 
 *-Copy The Session ID to paste it in Heroku*
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
