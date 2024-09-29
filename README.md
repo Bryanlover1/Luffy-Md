@@ -5,7 +5,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +LUFFY-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BRYAN+TECH" alt="Typing SVG" /></a>
   </p>
-    <img alt="LUFFY-MD" width="700" height="300" src="https://telegra.ph/file/134075b175f222786a795.jpg">
+    <img alt="LUFFY-MD" width="700" height="300" src="https://i.ibb.co/5x8YyJ9/dba291cb-68c9-446d-bf89-d8a8c98325a8.jpg">
 <p align="center">
 <p align="center">
 <a href="https://github.com/Bryanlover1/Luffy-Md"><img title="Author" src="https://img.shields.io/badge/LUFFY_MD-black?style=for-the-badge&logo=github"></a>
